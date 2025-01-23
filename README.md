@@ -1,4 +1,4 @@
-# lolteamperformance
+# Team efficiency and network structure: The case of professional League of Legends
 
 Mora-Cantallops, M. and Sicilia, M.Á., 2019. Team efficiency and network structure: The case of professional League of Legends. Social Networks, 58, pp.105-115.
 
